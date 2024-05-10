@@ -1,5 +1,4 @@
 #!/usr/bin/bash
-# bash script to calculate the number of days/years/months until a target date or between two dates
 function daysuntil() {
 	local places usage target_date current_date format
 
